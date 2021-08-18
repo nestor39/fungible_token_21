@@ -28,6 +28,9 @@ Create and compile the KaseiCoin Crowdsale Contract
 
 ![image](https://user-images.githubusercontent.com/80844686/129805030-38766d18-14d4-4508-b5e1-2b52f26e7069.png)
 
+Create the KaseiCoin Deployer Contract
+
+![image](https://user-images.githubusercontent.com/80844686/129819867-c18b4875-628e-4031-abc5-9cbd1726ea5c.png)
 
 
 ## Contributors
