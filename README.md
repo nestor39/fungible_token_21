@@ -32,6 +32,11 @@ Create the KaseiCoin Deployer Contract
 
 ![image](https://user-images.githubusercontent.com/80844686/129819867-c18b4875-628e-4031-abc5-9cbd1726ea5c.png)
 
+Deploy the Crowdsale to a Local Blockchain 
+
+https://user-images.githubusercontent.com/80844686/130007478-3bba2828-a64b-431a-a520-060955cd8083.mp4
+
+
 
 ## Contributors
 Brought to you by Nestor Ramirez Cuadro
