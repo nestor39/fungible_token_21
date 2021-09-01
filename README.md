@@ -1,10 +1,10 @@
 # Fungible Token ERC20
 
-I decided to create a new cryptocurrency called KaseiCoin (“Kasei” means “Mars” in Japanese.). KaseiCoin is a fungible token that is ERC-20 compliant. You will launched a crowdsale that will allow people to convert their money to KaseiCoin.
+I decided to create a new cryptocurrency called KaseiCoin (“Kasei” means “Mars” in Japanese.). KaseiCoin is a fungible token that is ERC-20 compliant. I launched a crowdsale that  allows people to convert their money to KaseiCoin.
 
 This token was minted by using a ```Crowdsale``` contract from OpenZeppelin Solidity library.
 
-The crowdsale contract that Icreated manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. This contract will mint the tokens automatically and distribute them to buyers in one transaction.
+The crowdsale contract that I created manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. This contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
 ## Technologies
 ``` Solidity ```
@@ -21,7 +21,7 @@ In order to open and run this program you have to follow these steps:
 
 * Clone the repository by typing ```git clone``` and paste the link ```git@github.com:nestor39/fungible_token_21.git```.
 
-* Type ```start .``` from Git Bash and you are going to be able to see the file inside the folder that you downloaded onto your computer.
+* Type ```start .``` in Git Bash and you are going to be able to see the file inside the folder that you downloaded onto your computer.
 
 Open [Remix IDE website](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.4+commit.c7e474f2.js) , load the file onto the current workspace, compile and deploy the file.
 
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/80844686/130007478-3bba2828-a64b-431a-
 
 ![image](https://user-images.githubusercontent.com/80844686/131054212-becaa51f-2111-4289-8f11-320276be2d57.png)
 
-Test the funcionality of the crowdsale by using test accounts to buy new tokens
+Test the functionality of the crowdsale by using test accounts to buy new tokens
 
 
 https://user-images.githubusercontent.com/80844686/131056570-52c8158b-006c-45dd-8627-199401d578c2.mp4
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/80844686/131056570-52c8158b-006c-45dd-
 https://user-images.githubusercontent.com/80844686/131056574-f573f9f3-31d8-4494-a835-eb385e9c899f.mp4
 
 
-Checking the balances associated with those accounts.
+Check the balances associated with those accounts.
 
 ![image](https://user-images.githubusercontent.com/80844686/131055583-5ad8f738-5849-464b-83a3-6898fd4a0d7a.png)
 
